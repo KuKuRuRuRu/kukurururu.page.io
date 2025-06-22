@@ -1,0 +1,62 @@
+body, html{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(Walpaperxp.jpg) center center;
+    background-size: cover;
+}
+.contenedor{
+    text-align: top;
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.575);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.Mystia-Adventure{
+    background-color: skyblue;
+    color: white;
+    padding: 10px 5px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.th12datarch{
+       background-color: skyblue;
+    color: white;
+    padding: 10px 5px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.MMF{
+     background-color: skyblue;
+    color: white;
+    padding: 10px 5px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.dddddddddd_standalone{
+      background-color: skyblue;
+    color: white;
+    padding: 10px 5px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.hsifs-sanae{
+         background-color: skyblue;
+    color: white;
+    padding: 10px 5px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
