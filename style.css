@@ -2,6 +2,7 @@ body, html{
     font-family: Arial, Helvetica, sans-serif;
     height: 100%;
     width: 100vw;
+    overflow: auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,9 +12,12 @@ body, html{
 .contenedor{
     text-align: top;
     padding: 50px;
+    height: 80%;
+    width: 80%;
     background-color: rgba(255, 255, 255, 0.575);
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: auto
 }
 .Mystia-Adventure{
     background-color: skyblue;
